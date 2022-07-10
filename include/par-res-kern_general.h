@@ -48,6 +48,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 #include <stdint.h>
 #include <inttypes.h>
+#include <float.h>
 
 #include <unistd.h>
 
