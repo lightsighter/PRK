@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2013, Intel Corporation
+Copyright (c) 2013, Intel Corporation, NVIDIA Corporation
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions 
@@ -44,7 +44,5 @@ POSSIBILITY OF SUCH DAMAGE.
 #include "par-res-kern_general.h"
 using namespace Legion;
 using namespace Legion::Mapping;
-using namespace LegionRuntime::Accessor;
-using namespace LegionRuntime;
 
 #endif /* PRK_LEGION_H */
